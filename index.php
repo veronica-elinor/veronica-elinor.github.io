@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <Title>Sois Belle A Ta Facon</Title>
+        <!-- Change to "Écouter les étoiles" -->
+        <Title>Sois belle à ta façon</Title>
     </head>
-    <header><h1>Sois Belle A Ta Facon</h1><h2>Veronica's Page</h2><p>Welcome to my website.</p></header>
+    <header><h1>Sois belle à ta façon</h1><h2>Veronica's Page</h2><p>Welcome to my website.</p></header>
     <body>
         
 
